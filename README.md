@@ -1,4 +1,4 @@
-UCSB Summer 2019 Math Camp for New Economics Ph.D. Students
+UCSB 2019 Summer Math Camp for Economics Ph.D. Students
 ===========================================================
 
 ## Syllabus
