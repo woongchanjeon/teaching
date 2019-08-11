@@ -1,12 +1,12 @@
 UCSB Math Camp Class A : Summer 2019
 ====================================
 
-- Instructor : Woongchan Jeon [oong-chahn]
-- Schedule: M - F 10:00 AM - 11:30 AM (No class on Labor Day!)
-- Classroom: North Hall 2111
-- Office Hours : T 03:30 PM - 05:30 PM
-- Office : North Hall 2015
-- email : wjeon@ucsb.edu
+- <b> Instructor </b> : Woongchan Jeon [oong-chahn]
+- <b> Schedule </b> : M - F 10:00 AM - 11:30 AM (No class on Labor Day!)
+- <b> Classroom </b> : North Hall 2111
+- <b> Office Hours </b> : T 03:30 PM - 05:30 PM
+- <b> Office </b> : North Hall 2015
+- <b> email </b> : wjeon@ucsb.edu
 
 ## Syllabus
 
