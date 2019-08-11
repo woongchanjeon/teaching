@@ -1,5 +1,5 @@
-UCSB Math Camp for Economics Ph.D. Students
-===========================================================
+UCSB Math Camp : Summer 2019
+============================
 
 ## Syllabus
 
