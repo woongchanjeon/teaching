@@ -20,6 +20,6 @@ You can find the [syllabus](https://wjeon01.github.io/Math_Camp/MC_Syllabus_19.p
 
 ## Problem Sets
 
-1. [PS 1](https://wjeon01.github.io/Math_Camp/) - [PS 1 Answer](https://wjeon01.github.io/Math_Camp/)
-2. [PS 2](https://wjeon01.github.io/Math_Camp/) - [PS 2 Answer](https://wjeon01.github.io/Math_Camp/)
-3. [PS 3](https://wjeon01.github.io/Math_Camp/) - [PS 3 Answer](https://wjeon01.github.io/Math_Camp/)
+1. [Problem Set 1](https://wjeon01.github.io/Math_Camp/) - [PS 1 Answer](https://wjeon01.github.io/Math_Camp/)
+2. [Problem Set 2](https://wjeon01.github.io/Math_Camp/) - [PS 2 Answer](https://wjeon01.github.io/Math_Camp/)
+3. [Problem Set 3](https://wjeon01.github.io/Math_Camp/) - [PS 3 Answer](https://wjeon01.github.io/Math_Camp/)
