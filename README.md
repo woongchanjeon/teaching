@@ -1,5 +1,5 @@
-UCSB Math Camp Class A: Summer 2019
-============================
+UCSB Math Camp Class A : Summer 2019
+====================================
 
 - Instructor : Woongchan Jeon [oong-chahn]
 - Schedule: M - F 10:00 AM - 11:30 AM (No class on Labor Day!)
@@ -14,7 +14,7 @@ You can find the [syllabus](https://wjeon01.github.io/Math_Camp/MC_Syllabus_19.p
 
 ## Lecture Notes
 
-1. [Note 1 : Linear Algebra](https://wjeon01.github.io/Math_Camp/MC_Syllabus_19.pdf)
+1. [Note 1 : Linear Algebra](https://wjeon01.github.io/Math_Camp/)
 2. [Note 2 : Probability](https://wjeon01.github.io/Math_Camp/)
 3. [Note 3 : Statistics](https://wjeon01.github.io/Math_Camp/)
 
