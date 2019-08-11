@@ -1,4 +1,4 @@
-# Math Camp : Summer 2019
+#math.camp
 UCSB Summer 2019 Math Camp
 
 ## Syllabus
