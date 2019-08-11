@@ -2,7 +2,7 @@ UCSB Math Camp Class A: Summer 2019
 ============================
 
 - Instructor : Woongchan Jeon [oong-chahn]
-- Schedule: M - F 10:00 AM - 11:30 AM
+- Schedule: M - F 10:00 AM - 11:30 AM (No class on Labor Day!)
 - Classroom: North Hall 2111
 - Office Hours : T 03:30 PM - 05:30 PM
 - Office : North Hall 2015
